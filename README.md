@@ -32,18 +32,6 @@ Prepare a User Interface where the User can choose one or more of the following:
 - Pillow
 - OpenCV-Python
 
-# main.py
-
-This Python-based utility leverages OpenCV, NumPy, and PIL to perform advanced image processing tasks. It provides functionalities such as color transformations, image blending, horizontal stacking, outlining black areas, and enhancing grayscale images. The utility employs multiprocessing for efficient handling of image processing tasks.
-
-## Features
-
-- **Color Transformation:** Converts specific color shades (green to transparent, blue to white).
-- **Image Blending:** Merges two images together.
-- **Horizontal Stacking:** Joins two images side by side.
-- **Outlining Black Areas:** Identifies and outlines black areas in images with a red line.
-- **Enhanced Grayscale:** Converts images to an enhanced grayscale format.
-
 
 # imageprocessor.py
 
@@ -57,15 +45,5 @@ This Python-based utility leverages OpenCV, NumPy, and PIL to perform advanced i
 - **Outlining Black Areas:** Identifies and outlines black areas in images with a red line.
 - **Enhanced Grayscale:** Converts images to an enhanced grayscale format.
 
-# Image Processing Toolkit
-
-This Python script provides a collection of image processing functions using OpenCV, NumPy, and PIL. It enables blending of images, horizontal stacking, outlining of black areas, and conversion to enhanced grayscale images.
-
-## Features
-
-- **Blending Images:** Combines two images into one with transparency handling.
-- **Stacking Images Horizontally:** Aligns two images side by side.
-- **Outlining Black Areas:** Outlines black areas in an image with a red line.
-- **Enhancing Grayscale Images:** Converts images to grayscale while enhancing specific color channels.
 
 
